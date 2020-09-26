@@ -1,0 +1,24 @@
+﻿@using ExternED.Services
+@inject KeyManager KeyManager
+@page "/"
+
+<h1>Welcome to ExternED</h1>
+<p>ExternED is an OpenSource application designed to supliment the game Elite Dangerous.  ExternED will host a local web app that can be accessed by any device over the network and allows Elite Dangerous keybindings to be pressed from another device.</p>
+
+<p>ExternED aims to give you a more complete and customisable control panel for many of the less common ship controls by emulating direct key-presses.  Grouped into related tasks, you can place any in-game binding you use on the page or you can create 'Actions' which group a sequence of keypresses together i.e. 'Request Docking'</p>
+
+<p>In Addition, ExternED reads the ED Journal for game events, providing feedback and additional information.  ExternED was developed for those that use controllers or HOTAS with limited button availability.</p>
+
+<button class="btn btn-primary" @onclick="POC">
+    Test Keypresses
+</button>
+
+
+
+@code{
+    private async Task<bool> POC()
+    {
+        await KeyManager.ProofOfConcept();
+        return true;
+    }
+}
