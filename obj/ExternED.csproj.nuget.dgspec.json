@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\ExternED.csproj": {}
+    "C:\\Users\\tbtom\\source\\repos\\ExternED\\ExternED.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\ExternED.csproj": {
+    "C:\\Users\\tbtom\\source\\repos\\ExternED\\ExternED.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\ExternED.csproj",
+        "projectUniqueName": "C:\\Users\\tbtom\\source\\repos\\ExternED\\ExternED.csproj",
         "projectName": "ExternED",
-        "projectPath": "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\ExternED.csproj",
+        "projectPath": "C:\\Users\\tbtom\\source\\repos\\ExternED\\ExternED.csproj",
         "packagesPath": "C:\\Users\\tbtom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\obj\\",
+        "outputPath": "C:\\Users\\tbtom\\source\\repos\\ExternED\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\",

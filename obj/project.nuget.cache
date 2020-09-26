@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pHX5tM1/g5QGgRAUt1/GmDdZtdz6uKV4No5ok+g9zxvrSJenUDH/UZtT4Zvb5e+nVjhDhu5o54durrWMPGdpNQ==",
+  "dgSpecHash": "b8JG+VyzwAlp87gBRUx2BY28vOLmzPZNWDaApYNn5zSpRhlG/ZxomkbEblAiy33NEAI6R/zXcjEn72bocvMrsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tbtom\\Source\\Repos\\odskee\\ExternED\\ExternED.csproj",
+  "projectFilePath": "C:\\Users\\tbtom\\source\\repos\\ExternED\\ExternED.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tbtom\\.nuget\\packages\\windowsinput\\6.1.1\\windowsinput.6.1.1.nupkg.sha512"
   ],
